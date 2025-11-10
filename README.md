@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Política de Privacidade — Titatoe (Jogo da Velha)
 
-You can use the [editor on GitHub](https://github.com/vauruk/vauruk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esta política de privacidade descreve como coletamos, usamos e protegemos as informações dos usuários no aplicativo Titatoe (Jogo da Velha).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. Coleta de dados
 
-### Markdown
+O aplicativo Titatoe não coleta informações pessoais dos usuários, como nome, endereço, telefone ou e-mail. O aplicativo pode coletar dados anônimos para fins estatísticos, como pontuação, número de partidas jogadas ou configurações de jogo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2. Utilização dos dados
 
-```markdown
-Syntax highlighted code block
+Os dados coletados são utilizados exclusivamente para aprimorar a experiência do usuário dentro do aplicativo, melhorar funcionalidades e desempenho. Não há compartilhamento de dados pessoais com terceiros.
 
-# Header 1
-## Header 2
-### Header 3
+## 3. Dados de navegação e cookies
 
-- Bulleted
-- List
+Este aplicativo não utiliza cookies ou rastreadores de navegação.
 
-1. Numbered
-2. List
+## 4. Compartilhamento de dados
 
-**Bold** and _Italic_ and `Code` text
+Nenhum dado pessoal é compartilhado com terceiros. Os dados anônimos podem ser agregados para análise estatística e aprimoramento do aplicativo.
 
-[Link](url) and ![Image](src)
-```
+## 5. Segurança
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+O aplicativo Titatoe utiliza medidas de segurança adequadas para proteger os dados dos usuários.
 
-### Jekyll Themes
+## 6. Consentimento
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vauruk/vauruk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ao utilizar o Titatoe, você concorda com esta política de privacidade.
 
-### Support or Contact
+## 7. Alterações na política de privacidade
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Esta política pode ser atualizada periodicamente. Recomendamos que você revise regularmente.
+
+## 8. Contato
+
+Se você tiver dúvidas, entre em contato pelo e-mail: suporte@titatoe.app (exemplo)
